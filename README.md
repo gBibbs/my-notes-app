@@ -4,7 +4,7 @@ This is the first react application I can proudly say that I built from scratch.
 
 ## This application was built using the following:
 
-React JS
-React-Router-DOM
-Tailwind CSS
+React JS,
+React-Router-DOM,
+Tailwind CSS,
 Firebase Authentication and Database
